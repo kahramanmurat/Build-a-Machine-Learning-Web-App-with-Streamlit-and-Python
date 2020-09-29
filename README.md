@@ -6,5 +6,8 @@ Train Logistic Regression, Random Forest, and Support Vector Classifiers using s
 Plot evaluation metrics for binary classification algorithms
 ```
 ```
-Using Python and Streamlit to build beautiful and interactive ML web apps. Load, explore, visualize and interact with data, and generate dashboards. Our web application will allows users to choose what classification algorithm they want to use and let them interactively set hyper-parameter values, all without them knowing to code!
+Using Python and Streamlit to build beautiful and interactive ML web apps.
+Load, explore, visualize and interact with data, and generate dashboards.
+Web application will allows users to choose what classification algorithm 
+they want to use and let them interactively set hyper-parameter values.
 ```
